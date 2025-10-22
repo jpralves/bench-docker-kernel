@@ -1,6 +1,7 @@
 # syntax=docker/dockerfile:1
 
 ARG IMAGE=rockylinux/rockylinux:9.6
+#ARG IMAGE=fedora:42
 
 FROM ${IMAGE}
 
