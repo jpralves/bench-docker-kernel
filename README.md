@@ -24,3 +24,6 @@ Some benchmarks (using rockylinux/rockylinux:9.6 - gcc 11.5.0):
 | Intel(R) N100 | 4 | 16GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 558s |
 | AMD Ryzen AI 5 340 w/ Radeon 840M | 12 | 32GB | Fedora Linux 42 | 6.17.4 | 2025-10-22 | 143s |
 | AMD Ryzen 7 7700 8-Core Processor | 16 | 32GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 102s |
+| Intel(R) Core(TM) i5-8250U CPU | 8 | 16GB | Fedora Linux 42 | 6.17.4 | 2025-10-22 | 565s |
+| Intel(R) Pentium(R) Gold 8505 | 6 | 16GB | Fedora Linux 42 | 6.16.11 | 2025-10-22 | 386s |
+| AMD Ryzen 5 7530U with Radeon Graphics | 12 | 40GB | Fedora Linux 42 | 6.17.4 | 235s |
