@@ -17,7 +17,7 @@ now_date="$(date --iso-8601)"
 source /etc/os-release
 os="${NAME:-Unknown} ${VERSION_ID:-}"
 kernel_version="$(uname -r | sed 's/^\([0-9.]*\).*/\1/')"
-rm "$tmpfile"
+rm -f "$tmpfile"
 
 cat <<EOF
 

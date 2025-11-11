@@ -18,6 +18,7 @@ Some benchmarks (using rockylinux/rockylinux:9.6 - gcc 11.5.0):
 | Machine | Processor | C/T | Memory | Host OS | Kernel | Date | Comp. Time |
 | --- | --- | --- | --- | --- | --- | --- | ---: |
 | ASUS PRIME B650M-A II | AMD Ryzen 7 7700 8-Core Processor | 16 | 32GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 102s |
+| ROG STRIX X299-E GAMING II | Intel(R) Core(TM) i9-10980XE CPU | 36 | 64GB | Ubuntu 24.04 | 6.8.0 | 2025-11-11 | 103s |
 | Framework 13 | AMD Ryzen AI 5 340 w/ Radeon 840M | 12 | 32GB | Fedora Linux 42 | 6.17.4 | 2025-10-22 | 143s |
 | Lenovo Legion 5 | AMD Ryzen 7 4800H with Radeon Graphics | 16 | 32GB | Arch Linux | 6.17.3 | 2025-10-22 | 176s |
 | Lenovo Ideapad 1 | AMD Ryzen 7 5700U with Radeon Graphics | 16 | 16GB | Fedora Linux 42 | 6.17.4 | 2025-10-22 | 225s |

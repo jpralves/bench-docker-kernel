@@ -14,12 +14,13 @@ show_timer_reset() {
 
 start_timer
 
-tar xf *xz --strip-components=1
+tar xf /src/*xz --strip-components=1
 
-cp kernel.config .config
+cp /src/kernel.config .config
 
 show_timer_reset "extraction of tar"
 
-make -j$(nproc)
+make -j"$(nproc)"
 
+echo "Occupied size: $(du -sh . | cut -f1)"
 show_timer_reset "make -j$(nproc)"
