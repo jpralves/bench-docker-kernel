@@ -27,6 +27,6 @@ Some benchmarks (using rockylinux/rockylinux:9.6 - gcc 11.5.0):
 | UGREEN NAS DXP4800Plus | Intel(R) Pentium(R) Gold 8505 | 6 | 16GB | Fedora Linux 42 | 6.16.11 | 2025-10-22 | 386s |
 | Lenovo Thinkpad L14 G3 | 12th Gen Intel(R) Core(TM) i7-1255U | 12 | 32GB | Red Hat Enterprise Linux 9.6 | 5.14.0 | 2025-10-22 | 446s |
 | ? | Intel(R) N100 | 4 | 16GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 558s |
+| Clevo N220WU | Intel(R) Core(TM) i7-8550U CPU | 8 | 32GB | Fedora Linux 42 | 6.17.7 | 2025-11-17 | 558s |
 | Clevo | Intel(R) Core(TM) i5-8250U CPU | 8 | 16GB | Fedora Linux 42 | 6.17.4 | 2025-10-22 | 565s |
-| Clevo N220WU | Intel(R) Core(TM) i7-8550U CPU | 8 | 32GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 590s |
 
