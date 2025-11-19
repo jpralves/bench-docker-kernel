@@ -17,6 +17,7 @@ Some benchmarks (using rockylinux/rockylinux:9.6 - gcc 11.5.0):
 
 | Machine | Processor | C/T | Memory | Host OS | Kernel | Date | Comp. Time |
 | --- | --- | --- | --- | --- | --- | --- | ---: |
+| Lenovo Thinkpad P41s G6 | AMD Ryzen AI 9 HX PRO 370 w/ Radeon 890M | 24 | 64GB | Fedora Linux 43 | 6.17.7 | 2025-11-17 | 99s |
 | ASUS PRIME B650M-A II | AMD Ryzen 7 7700 8-Core Processor | 16 | 32GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 102s |
 | ROG STRIX X299-E GAMING II | Intel(R) Core(TM) i9-10980XE CPU | 36 | 64GB | Ubuntu 24.04 | 6.8.0 | 2025-11-11 | 103s |
 | NP6_7xRZ | 13th Gen Intel(R) Core(TM) i7-13700H | 20 | 64GB | Ubuntu 24.04 | 6.8.0 | 2025-11-11 | 129s |
