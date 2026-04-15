@@ -17,17 +17,19 @@ now_date="$(date --iso-8601)"
 source /etc/os-release
 os="${NAME:-Unknown} ${VERSION_ID:-}"
 kernel_version="$(uname -r | sed 's/^\([0-9.]*\).*/\1/')"
+productname="$(cat /sys/class/dmi/id/sys_vendor) $(cat /sys/class/dmi/id/product_name)"
 rm -f "$tmpfile"
 
 cat <<EOF
 
 ---- Results:
+Product Name: $productname
 Processor: $processor
 Cores/Threads: $cores
 Memory: ${memory}GB
-Date: $now_date
 OS: $os
 Kernel: $kernel_version
+Date: $now_date
 Execution time: ${execution_time}s
-
+Nick: ____
 EOF
