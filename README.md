@@ -28,8 +28,8 @@ Some benchmarks (using rockylinux/rockylinux:9.6 - gcc 11.5.0):
 | Lenovo Ideapad 1 | AMD Ryzen 7 5700U with Radeon Graphics | 16 | 16GB | Fedora Linux 42 | 6.17.4 | 2025-10-22 | 225s | jpralves |
 | Lenovo ThinkPad E14 G5 | AMD Ryzen 5 7530U with Radeon Graphics | 12 | 40GB | Fedora Linux 42 | 6.17.4 | 2025-11-05 | 235s | apereira |
 | HP EliteBook 660 16 inch G11 Notebook PC | Intel(R) Core(TM) Ultra 7 165H | 22 | 64GB | Red Hat Enterprise Linux 9.7 | 5.14.0 | 2026-02-23 | 236s | jpralves |
-| HP HP EliteBook 660 16 inch G11 Notebook PC | Intel(R) Core(TM) Ultra 7 165H | 22 | 64GB | Red Hat Enterprise Linux 9.7 | 5.14.0 | 2026-03-31 | 240s | jpralves |
 | UGREEN NAS DXP4800Plus | Intel(R) Pentium(R) Gold 8505 | 6 | 16GB | Fedora Linux 42 | 6.16.11 | 2025-10-22 | 386s | lfcorreia |
+| HP EliteBook 840 G8 Notebook PC | 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz | 8 | 32GB | Red Hat Enterprise Linux 9.7 | 5.14.0 | 2026-04-15 | 429s | jc |
 | Lenovo Thinkpad L14 G3 | 12th Gen Intel(R) Core(TM) i7-1255U | 12 | 32GB | Red Hat Enterprise Linux 9.6 | 5.14.0 | 2025-10-22 | 446s | jpralves |
 | Intel Corporation Jasper Lake Client Platform | Intel(R) N100 | 4 | 16GB | Fedora Linux 42 | 6.16.12 | 2025-10-22 | 558s | jpralves |
 | Clevo N220WU | Intel(R) Core(TM) i7-8550U CPU | 8 | 32GB | Fedora Linux 42 | 6.17.7 | 2025-11-17 | 558s | jpralves |
